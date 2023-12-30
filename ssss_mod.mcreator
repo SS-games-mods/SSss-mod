@@ -1,18 +1,5 @@
 {
-  "mod_elements": [
-    {
-      "name": "Deletethistotest",
-      "type": "tag",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "deletethistotest",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/forge/tags/items/deletethistotest.json"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
